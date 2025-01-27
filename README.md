@@ -1,6 +1,6 @@
-# Brief Data Science Concepts
+# Brief Data Science Concept Stories
 
-_Brief Data Science Concepts_ encloses my overview of certain topics and my practical experiments in the field of _Data Science_, as its name implies, in a short form.
+_Brief Data Science Concept Stories_ encloses my overview of certain topics and my practical experiments in the field of _Data Science_, as its name implies, in a short form.
 
 ## Issue 1
 
